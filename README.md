@@ -21,8 +21,8 @@ A **Programmer** and ***Musician*** 🚀.
 
 - 👨🏽‍💻 I’m currently a middle school student in Maths/Physics/IT class
 - 🌱 I’m currently learning JAVA, more precisely Spigot API. 
-- 🎸 I love power metal. My favourite band is Powerwolf🐺.
-- 💬 Ask me about anything, I love to answer!
+- 🎸 I'm really into metal music.
+- 💬 If you have any questions to me, feel free to ask!
 - 📫 Email me at [mk.kowalik05@gmail.com](mailto:mk.kowalik05@gmail.com).
 
 
